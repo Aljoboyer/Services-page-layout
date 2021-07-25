@@ -1,0 +1,107 @@
+/* body{
+    margin: 0%;
+    background-image: url(images/);
+} */
+
+header{
+    background-image: url(images/front-page/front-page-header.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+/* header h1{
+    font-size: 5rem;
+    color: white;
+} */
+#hbuttonone{
+    border: solid 2px white;
+    color: white;
+    background-color: rgba(136, 136, 136, 0.212);
+    padding: 10px 30px 10px 30px;
+}
+
+#hbuttontwo{
+    /* border: 0px; */
+    border: solid 2px white;
+
+    background-color: yellow;
+    color: rgb(10, 10, 10);
+    padding: 10px 30px 10px 30px;
+}
+
+#hbuttontwo:hover {
+    background-color: rgb(218, 121, 121);
+}
+
+.hrow{
+    margin-top: 310px;
+}
+
+.process{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.images:hover img{
+    opacity: 0.5;
+}
+
+.slidecontain{
+    background-image: url(images/testiomnials-background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.descrip{
+    background-color: rgb(85, 35, 126);
+}
+
+.fa-code {
+    color: yellow;}
+
+.hone{
+    color: yellow;
+}
+.fa-search, .hthree{
+    color:  rgb(85, 35, 126);
+    
+}
+.fa-pencil-alt, .htwo{
+    color:rgb(221, 60, 60);
+}
+.acnhor{
+    height: 30px;
+    width: 50px;
+    padding: 10px 30px 10px 30px;
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.anchorblog{
+    text-decoration: none;
+    color: rgb(102, 98, 98);
+    
+}
+
+.anchorblog:hover  h2{
+    color: rgb(255, 0, 0);
+}
+
+.clients{
+    background-image: url(images/front-page/front-page-counter.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.fab{
+    color: gray;
+    margin-left: 5px;
+}
+.footanchor:hover p{
+    color: gold;
+}
